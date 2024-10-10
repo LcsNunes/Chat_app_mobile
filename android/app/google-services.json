@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "940639903107",
+    "project_id": "chat-senai-quinto-semestre",
+    "storage_bucket": "chat-senai-quinto-semestre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940639903107:android:e1293ffe6a6fb3356a2ab6",
+        "android_client_info": {
+          "package_name": "com.example.chatsenai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjxLBwva0xBb-Kw8ftzg4yO2vyneI7AqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
