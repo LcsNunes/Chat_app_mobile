@@ -17,8 +17,8 @@ String titleButton;
           onPressed: () async {
 
             try {
-              await FirebaseAuthService().recoverPassword();   
-              //Navigator.pushReplacementNamed(context, '');          
+              await FirebaseAuthService().login();   
+              Navigator.pushReplacementNamed(context, 'Feedbacks');          
             } catch (e) {
 
               ScaffoldMessenger.of(context).showSnackBar(

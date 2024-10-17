@@ -22,7 +22,7 @@ void main() async {
       initialRoute: '',
       routes: {
         
-        '':(context)=>LoginPage(),
+        '':(context)=>FeedbackPage(),
         'login':(context)=>LoginPage(),
         
       },
